@@ -5,6 +5,7 @@ This project focuses on **dynamic simulations** and **keyframe animation**. It d
 
 ## 🎬 Animation Preview
 ![Bowling Animation Preview](renders/Bowling_Simulation_Preview.gif)
+
 *If the GIF doesn't load, you can find the full video in the `/video` folder.*
 
 ## 🛠️ Technical Specifications
